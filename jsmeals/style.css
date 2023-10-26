@@ -1,0 +1,22 @@
+.navbar{
+    background-color: black;
+    color: aliceblue;
+    
+}
+ li{
+    list-style-type: none;
+    display: inline;
+   
+   
+}
+.navitems{
+    font-size: x-large;
+}
+img{
+    border-radius: 5px !important;
+    margin-top: 10px !important;
+}
+p{
+    font-weight: bold;
+    font-size: x-large;
+}

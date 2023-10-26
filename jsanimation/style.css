@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to right,silver ,gray);
+}
+h1{
+    background-color: azure;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    
+}
+img{
+    height: 500px;
+    border-radius: 5px;
+}

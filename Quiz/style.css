@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right,silver, gray);
+  
+}
+.col-md-7{
+    background: aliceblue;
+    margin-top: 150px;
+    height: 500px;
+    width: 1000px;
+    
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+}
+input,li,button{
+    padding: 15px;
+    font-size: xx-large;
+}

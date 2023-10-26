@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(to right,pink,blue);
+}
+.container{
+    border: 5px solid black;
+    justify-content: center;
+    align-items: center;
+    margin: 400px 0px 0px 800px;
+    width: max-content;
+}
+.bttn{
+  padding: 4px;
+  margin: 4px 4px 4px 4px;
+  border-radius: 50%;
+  background-color: blueviolet;
+}
+.bttn #i{
+  background-color: blue;
+}
+.bttn #d{
+  background-color:  red;
+}
+.bttn #n{
+  background-color:  pink;
+}
+#number{
+  padding-left: 110px;
+}

@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to right,pink,gray);
+  }
+.container{
+    background: white;
+    height: 450px;
+    width: 600px;
+    margin-top: 270px;
+    margin-left: 700px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+   
+}
+input{
+    margin-top: 20px;
+}
+input[type=text]{
+    height: 25px;
+    width: 90%;
+}
+.bttn{
+    margin-top: 20px;
+}
+.bttn button{
+    background-color: blue;
+    color:  white;
+    border: 5px;
+    height: 30px;
+    width: 90px;
+}
+.success{
+    border-color: green;
+}
+.error{
+    border-color: red ;
+}
+small{
+    color: red;
+    font-weight: bold;
+    margin: 5px;
+}
